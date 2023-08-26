@@ -1,0 +1,15 @@
+{
+  "name": "i.mlearning.me",
+  "version": "1.0.0",
+  "description": "i'm[achine] Learning me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "machine",
+    "learning"
+  ],
+  "author": "suiGn",
+  "license": "MIT"
+}
