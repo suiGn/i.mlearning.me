@@ -1,2 +1,2 @@
 # i.mlearning.me
-i.mlearning server
+i.mlearning Client App.
